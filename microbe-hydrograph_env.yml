@@ -1,0 +1,11 @@
+name: microbe-hydrograph_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.4
+  - scikit-bio
+  - scikit-learn
+  - seaborn
+  - statsmodels
+
