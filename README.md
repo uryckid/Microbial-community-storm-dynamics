@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/824223749.svg)](https://zenodo.org/badge/latestdoi/824223749)
+
 # Microbial Community Storm Dynamics
 
 This repo contains code and data used to develop the analysis of microbial community dynamics in response to stream event flow over the course of a major early-season precipitation event on the Marys River in Oregon, USA, as described in the article: 
